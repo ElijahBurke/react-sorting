@@ -1,0 +1,13 @@
+.dashboard_container {
+  width: 100vw;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bar_container {
+  width: 90%;
+  height: 90%;
+  display: flex;
+  justify-content: space-evenly;
+}
